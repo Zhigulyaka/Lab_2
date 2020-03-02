@@ -1,0 +1,10 @@
+﻿  function1.c
+  main1.c
+D:\Учеба\ck2\main1.c(17,11): warning C4013: Readfile: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Учеба\ck2\main1.c(18,8): warning C4013: Print: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Учеба\ck2\main1.c(19,19): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Учеба\ck2\main1.c(27,10): warning C4013: puzyrek: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Учеба\ck2\main1.c(31,10): warning C4013: vstavka: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода...
+D:\Учеба\ck2\main1.c(35,12): warning C4013: timehoara: нет определения; предполагается "extern" с возвратом типа "int"
+  ck2.vcxproj -> D:\Учеба\ck2\Debug\ck2.exe
